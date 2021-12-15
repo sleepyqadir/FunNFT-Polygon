@@ -1,0 +1,16 @@
+{
+  "name": "FunNFT-Polygon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://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@github.com/sleepyqadir/FunNFT-Polygon.git",
+  "author": "AQadir64 <a.qadir67@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.3",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@openzeppelin/contracts": "^4.4.1",
+    "ethers": "^5.5.2",
+    "hardhat": "^2.8.0",
+    "hardhat-abi-exporter": "^2.3.1"
+  }
+}
